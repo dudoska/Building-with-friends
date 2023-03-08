@@ -4,6 +4,7 @@ Building-with-friends - open source online building game. Created to help beginn
 
 ## Options
     Game genre: Construction
+    Platform: Windows
     Engine: Unity 2021.3.6f1 
     Language: Russian
     
