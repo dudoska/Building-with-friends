@@ -8,4 +8,4 @@ Building-with-friends - open source online building game. Created to help beginn
     Language: Russian
     
 ## License
-   [MIT License](https://choosealicense.com/licenses/mit/) 
+   [MIT License](https://github.com/DUDOSA-RUS/Building-with-friends/blob/main/LICENSE) 
