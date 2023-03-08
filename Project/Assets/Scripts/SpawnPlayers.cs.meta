@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 88481ae5471f5cc41893e3a7e1381b55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - nick: {fileID: 8813884353715379852, guid: 89fcf5753a31e2e4b9dfe570a6dbcde9, type: 3}
+  - spawn_player1: {instanceID: 0}
+  - spawn_player2: {instanceID: 0}
+  - spawn_player3: {instanceID: 0}
+  - spawn_player4: {instanceID: 0}
+  - spawn_player5: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
